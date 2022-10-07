@@ -2,3 +2,4 @@
 
 - numpy lib 활용 예 - https://gist.github.com/Leeyoonhu/5da14a50824bdd0799bb8a756d538c5f#file--01-ipynb
 - 평균, 확률 통계 예 - https://gist.github.com/Leeyoonhu/4f804424cf11f1740bcac05034a157b7#file--01-b-1-ipynb
+- 수집, 분석, 시각화 및 타이타닉 생존자 예 - https://gist.github.com/Leeyoonhu/34dde70bad73276db77d1eec8e94c212#file--02-pandas-ipynb
