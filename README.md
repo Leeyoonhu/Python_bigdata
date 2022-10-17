@@ -8,3 +8,4 @@
 - 2022-10-13 강사님 풀이 - https://gist.github.com/Leeyoonhu/15399c808ee217c3dda755c6563c6f8a#file--04-ipynb
 - 수집 분석 시각화 05 - 영상처리 : https://gist.github.com/Leeyoonhu/14e1fe2a3da579c8ba1db7bcaaa292c7#file--05-ipynb
 - TF-IDF - https://gist.github.com/Leeyoonhu/cbd4ac60c9d184e49941b51066284382#file--05-b_tfidf-ipynb
+- 텍스트 마이닝, 선형 회귀 - https://gist.github.com/Leeyoonhu/ed62995b770ac64cb066a4a6eb9791ea#file--06-test-mining1-ipynb
