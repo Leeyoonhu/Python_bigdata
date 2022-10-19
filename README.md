@@ -10,3 +10,5 @@
 - TF-IDF - https://gist.github.com/Leeyoonhu/cbd4ac60c9d184e49941b51066284382#file--05-b_tfidf-ipynb
 - 텍스트 마이닝, 선형 회귀 - https://gist.github.com/Leeyoonhu/ed62995b770ac64cb066a4a6eb9791ea#file--06-test-mining1-ipynb
 - 선형 회귀, 머신러닝 - https://gist.github.com/Leeyoonhu/afd98ea7e7a279ab71a98a5681e375ac#file--_-_-_-_-_07_-ipynb
+- Hadoop File System1 - 
+- Hadoop File System2 - https://gist.github.com/Leeyoonhu/cdcec630635007e357653bf7509ca425#file-hadoop-02-ipynb 
