@@ -20,4 +20,4 @@
 - Hadoop File System3-3 - https://gist.github.com/Leeyoonhu/fd7375ca9ad1e80f769344625bab2bf8#file-hadoop-03-3-ipynb
 - Hadoop File System3-4 - https://gist.github.com/Leeyoonhu/f1fbf32ff1e7e6c30cf255fd75d603f7#file-hadoop-03-4-ipynb
 - Hadoop File System3-5 - https://gist.github.com/Leeyoonhu/507db1fbb5104638c81602098253bb19#file-hadoop-03-5-ipynb
-
+- Hadoop File System3-6 - https://gist.github.com/Leeyoonhu/58a20d7e1c9e72fcfa6a427e3f4c8eff#file-hadoop-03-6-ipynb
