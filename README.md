@@ -11,6 +11,8 @@
 - 텍스트 마이닝, 선형 회귀 - https://gist.github.com/Leeyoonhu/ed62995b770ac64cb066a4a6eb9791ea#file--06-test-mining1-ipynb
 - 선형 회귀, 머신러닝 - https://gist.github.com/Leeyoonhu/afd98ea7e7a279ab71a98a5681e375ac#file--_-_-_-_-_07_-ipynb
 
+# Hadoop Distribute File System
+
 - Hadoop File System1 - https://gist.github.com/Leeyoonhu/1b21e1dd0f749bc1e6c377ae44f87cd2#file-hadoop-01-ipynb
 
 - Hadoop File System2 - https://gist.github.com/Leeyoonhu/cdcec630635007e357653bf7509ca425#file-hadoop-02-ipynb 
@@ -21,3 +23,4 @@
 - Hadoop File System3-4 - https://gist.github.com/Leeyoonhu/f1fbf32ff1e7e6c30cf255fd75d603f7#file-hadoop-03-4-ipynb
 - Hadoop File System3-5 - https://gist.github.com/Leeyoonhu/507db1fbb5104638c81602098253bb19#file-hadoop-03-5-ipynb
 - Hadoop File System3-6 - https://gist.github.com/Leeyoonhu/58a20d7e1c9e72fcfa6a427e3f4c8eff#file-hadoop-03-6-ipynb
+- Hadoop File System3-7 - https://gist.github.com/Leeyoonhu/7f8b9cd993ba9179db858dd89bab4e93#file-hadoop-03-7-ipynb
