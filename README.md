@@ -27,3 +27,4 @@
 
 - Hadoop File System4-1 - https://gist.github.com/Leeyoonhu/892d037b56dc730b84f10e54a8335cb0#file-hadoop-04-1-ipynb
 - Hadoop File System4-2 - https://gist.github.com/Leeyoonhu/db14518aa5a658a8005651554e6dcf8b#file-hadoop-04-2-ipynb
+- Hadoop File System4-3 - https://gist.github.com/Leeyoonhu/a825c05f59bd2dfdf4829b19966e0870#file-hadoop-04-3-ipynb
