@@ -33,4 +33,4 @@
 # Hadoop Eco System
 
 - Hadoop Eco System1-1 - https://gist.github.com/Leeyoonhu/963d38b4c74d058fde77340236034469#file-hadoopeco-01-1-ipynb
-- Hadoop Eco System1-2
+- Hadoop Eco System1-2 - https://gist.github.com/Leeyoonhu/7341af3d565463bf217185ec629ac79c#file-hadoopeco-01-2-ipynb
