@@ -40,6 +40,7 @@
 - Hadoop Eco System1-6 - https://gist.github.com/Leeyoonhu/35b16a3fe4b2776be5eeab711a5ec068#file-hadoopeco-01-6-ipynb
 
 
-# Deep Running 
+# machine learning
 
-- Deep running1-1 - https://gist.github.com/Leeyoonhu/24721f0b146b5bf7d5d6d3ebda3e47ad#file-deep-running-01-1-ipynb
+- machine learning1-1 - https://gist.github.com/Leeyoonhu/3b99a8a1776c071ae7a4b57c25b8702a#file-machine-learning-01-1-ipynb
+- machine learning1-2 
