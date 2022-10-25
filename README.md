@@ -45,3 +45,4 @@
 - machine learning1-1 - https://gist.github.com/Leeyoonhu/3b99a8a1776c071ae7a4b57c25b8702a#file-machine-learning-01-1-ipynb
 - machine learning1-2 - https://gist.github.com/Leeyoonhu/bd8cf721d42b1aaf06b20c1ffa9c614d#file-machine-learning-01-2-ipynb
 - machine learning1-3 - https://gist.github.com/Leeyoonhu/143f11070712c8a0349e136534007706#file-machine-learning-01-3-ipynb
+- machine learning1-4 - https://gist.github.com/Leeyoonhu/8be8a4085a9c265325ca5a2edca34004#file-machine-learning-01-4-ipynb
